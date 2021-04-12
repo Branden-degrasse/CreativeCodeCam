@@ -1,0 +1,15 @@
+*{
+	box-sizing: border-box;
+}
+html, body {
+	min-height: 100vh;
+	margin: 0;
+	font-family: 'Recursive', sans-serif;
+}
+img{
+	max-width: 100%;
+}
+h1,h2,h3{
+	text-align: center;
+}
+
